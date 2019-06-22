@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D6DE8265-1EEF-4F6D-8019-1A350A1E4BFD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/Interceptors/MethodInterceptionBaseAttribute.cs">
+    <Files>
+      <File FileName="Core/Interceptors/AspectInterceptorSelector.cs" Line="17" Column="56" />
+      <File FileName="Core/Interceptors/MethodInterception.cs" Line="1" Column="1" />
+      <File FileName="Core/Interceptors/MethodInterceptionBaseAttribute.cs" Line="8" Column="87" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Autofac.AspectOrientedProgramming" expanded="True">
+            <Node name="Core" expanded="True">
+              <Node name="Interceptors" expanded="True">
+                <Node name="AspectInterceptorSelector.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Web" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Web PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

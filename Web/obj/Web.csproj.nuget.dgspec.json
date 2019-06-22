@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Web/Web.csproj": {}
+    "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Web/Web.csproj": {}
   },
   "projects": {
-    "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Business/Business.csproj": {
+    "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Business/Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Business/Business.csproj",
+        "projectUniqueName": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Business/Business.csproj",
         "projectName": "Business",
-        "projectPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Business/Business.csproj",
+        "projectPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Business/Business.csproj",
         "packagesPath": "/Users/berkaybilgin/.nuget/packages/",
-        "outputPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Business/obj/",
+        "outputPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Business/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -27,7 +27,11 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Core/Core.csproj": {
+                "projectPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Core/Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -54,14 +58,14 @@
         }
       }
     },
-    "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Core/Core.csproj": {
+    "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Core/Core.csproj",
+        "projectUniqueName": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Core/Core.csproj",
+        "projectPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Core/Core.csproj",
         "packagesPath": "/Users/berkaybilgin/.nuget/packages/",
-        "outputPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Core/obj/",
+        "outputPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Core/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -124,14 +128,14 @@
         }
       }
     },
-    "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Web/Web.csproj": {
+    "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Web/Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Web/Web.csproj",
+        "projectUniqueName": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Web/Web.csproj",
         "projectName": "Web",
-        "projectPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Web/Web.csproj",
+        "projectPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Web/Web.csproj",
         "packagesPath": "/Users/berkaybilgin/.nuget/packages/",
-        "outputPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Web/obj/",
+        "outputPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Web/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -148,11 +152,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Business/Business.csproj": {
-                "projectPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Business/Business.csproj"
+              "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Business/Business.csproj": {
+                "projectPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Business/Business.csproj"
               },
-              "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Core/Core.csproj": {
-                "projectPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Core/Core.csproj"
+              "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Core/Core.csproj": {
+                "projectPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Core/Core.csproj"
               }
             }
           }

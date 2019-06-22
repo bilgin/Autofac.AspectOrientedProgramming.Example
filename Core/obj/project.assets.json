@@ -3160,11 +3160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Core/Core.csproj",
+      "projectUniqueName": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Core/Core.csproj",
       "projectName": "Core",
-      "projectPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Core/Core.csproj",
+      "projectPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Core/Core.csproj",
       "packagesPath": "/Users/berkaybilgin/.nuget/packages/",
-      "outputPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Core/obj/",
+      "outputPath": "/Users/berkaybilgin/Desktop/projects/Autofac.AspectOrientedProgramming/Autofac.AspectOrientedProgramming.Example/Core/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

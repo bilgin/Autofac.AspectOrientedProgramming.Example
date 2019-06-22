@@ -15,7 +15,6 @@ namespace Core.Utilities.Interceptors
             var methodAttributes = type.GetMethod(method.Name).GetCustomAttributes<MethodInterceptionBaseAttribute>(true);
 
             classAttributes.AddRange(methodAttributes);
-            // ReSharper disable once CoVariantArrayConversion
             return classAttributes.OrderBy(x => x.Priority).ToArray();
         }
     }
