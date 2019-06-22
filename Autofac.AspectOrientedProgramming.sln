@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{DF5F72DE-3931-491C-B1DF-265327611A00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{B140053E-BE69-4A31-8A2B-884E0E983385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{D6DE8265-1EEF-4F6D-8019-1A350A1E4BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF5F72DE-3931-491C-B1DF-265327611A00}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DF5F72DE-3931-491C-B1DF-265327611A00}.Debug|x86.Build.0 = Debug|Any CPU
+		{DF5F72DE-3931-491C-B1DF-265327611A00}.Release|x86.ActiveCfg = Release|Any CPU
+		{DF5F72DE-3931-491C-B1DF-265327611A00}.Release|x86.Build.0 = Release|Any CPU
+		{B140053E-BE69-4A31-8A2B-884E0E983385}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B140053E-BE69-4A31-8A2B-884E0E983385}.Debug|x86.Build.0 = Debug|Any CPU
+		{B140053E-BE69-4A31-8A2B-884E0E983385}.Release|x86.ActiveCfg = Release|Any CPU
+		{B140053E-BE69-4A31-8A2B-884E0E983385}.Release|x86.Build.0 = Release|Any CPU
+		{D6DE8265-1EEF-4F6D-8019-1A350A1E4BFD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D6DE8265-1EEF-4F6D-8019-1A350A1E4BFD}.Debug|x86.Build.0 = Debug|Any CPU
+		{D6DE8265-1EEF-4F6D-8019-1A350A1E4BFD}.Release|x86.ActiveCfg = Release|Any CPU
+		{D6DE8265-1EEF-4F6D-8019-1A350A1E4BFD}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
